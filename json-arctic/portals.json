@@ -1,0 +1,74 @@
+[
+	{
+		"Nodes": [
+			{
+				"PortalName": "Hell Entrance",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 700948.438,
+				"worldY": 227678.266
+			},
+			{
+				"PortalName": "Hell",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 2109999.25,
+				"worldY": 9117983
+			}
+		],
+		"PathId": 103,
+		"PathName": "",
+		"PathPortalType": 1,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "Leave Hell",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 714574.8,
+				"worldY": 9096567
+			},
+			{
+				"PortalName": "Hell Exit",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 332717.375,
+				"worldY": 227677.531
+			}
+		],
+		"PathId": 105,
+		"PathName": "",
+		"PathPortalType": 1,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "KOTH Entrance",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 1156461.75,
+				"worldY": 1156224.38
+			},
+			{
+				"PortalName": "KOTH",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 6289434,
+				"worldY": 8637161
+			}
+		],
+		"PathId": 106,
+		"PathName": "",
+		"PathPortalType": 0,
+		"isLooping": false
+	}
+]
